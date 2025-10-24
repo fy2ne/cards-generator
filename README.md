@@ -1,6 +1,6 @@
 # 💳 Cards Generator CLI
 
-![Banner](https://cdn.discordapp.com/attachments/1196092200338071695/1431378502300598402/image.png?ex=68fd329c&is=68fbe11c&hm=f46ebd9c98e62b89f785dd8002695d494572778cddcd7bbb8ab9671e59dad1bb&)
+![Banner widght="2"](https://cdn.discordapp.com/attachments/1196092200338071695/1431378502300598402/image.png?ex=68fd329c&is=68fbe11c&hm=f46ebd9c98e62b89f785dd8002695d494572778cddcd7bbb8ab9671e59dad1bb&)
 
 **Cards Generator CLI** is a simple terminal tool that generates random credit card details for testing purposes.  
 Made by **fy2ne**, easy to run locally and customizable.  
