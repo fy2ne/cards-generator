@@ -1,0 +1,10 @@
+{
+  "name": "cards-generator",
+  "version": "1.1.0",
+  "description": "A simple CLI credit card generator by fy2ne",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
