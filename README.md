@@ -24,9 +24,9 @@ cd cards-generator```
 
 2. Install dependencies:
 
-```npm install```
+npm install
 
 
 3. Run the app:
 
-```node index.js```
+node index.js
