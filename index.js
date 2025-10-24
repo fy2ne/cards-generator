@@ -93,7 +93,7 @@ function ask(question) {
 
     console.log(chalk.gray("\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"));
     console.log(chalk.white("⭐ If you liked this tool, give it a star on:"));
-    console.log(chalk.blueBright("👉 https://github.com/fy2ne/cards-generator"));
+    console.log(chalk.blueBright("👉 https://github.com/fy2ne/cards-generator-CLI"));
     console.log(chalk.gray("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"));
   } catch (err) {
     console.error(chalk.redBright("⚠️ Request failed:"), chalk.white(err.message));
