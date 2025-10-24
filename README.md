@@ -20,8 +20,8 @@ Made by **fy2ne**, easy to run locally and customizable.
 1. **Clone the repo and enter the folder**
 
 ```bash
-git clone https://github.com/fy2ne/cards-generator
-cd cards-generator
+git clone https://github.com/fy2ne/cards-generator-CLI
+cd cards-generator-CLI
 ```
 
 2. **Install dependencies**
