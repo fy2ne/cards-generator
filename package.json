@@ -1,5 +1,5 @@
 {
-  "name": "cards-generator",
+  "name": "cards-generator-CLI",
   "version": "1.1.0",
   "description": "A simple CLI credit card generator by fy2ne",
   "main": "index.js",
