@@ -15,18 +15,24 @@ Made by **fy2ne**, easy to run locally and customizable.
 
 ---
 
-## 🛠️ Installation
+## 🛠️ Installation & Run
 
-1. Clone this repo:
+1. **Clone the repo and enter the folder**
+
 ```bash
 git clone https://github.com/fy2ne/cards-generator
-cd cards-generator```
+cd cards-generator
+```
 
-2. Install dependencies:
+2. **Install dependencies**
 
+```bash
 npm install
+& sometimes u will need to: npm install chalk gradient-string node-fetch
+```
 
+3. **Run the app**
 
-3. Run the app:
-
+```bash
 node index.js
+```
